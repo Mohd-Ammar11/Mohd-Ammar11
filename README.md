@@ -42,13 +42,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
-<br> 
+    
+<br>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
 &nbsp; &nbsp; 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40" />
 </a>
 &nbsp; &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
