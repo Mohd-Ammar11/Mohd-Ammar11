@@ -50,6 +50,11 @@
 </a>
 &nbsp; &nbsp; 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<div style="display: inline-block; width: 40px; height: 40px; background: #000; color: #fff; text-align: center; line-height: 40px; font-family: Arial, sans-serif; border-radius: 5px;">
+    EX
+</div>
+
+
 &nbsp; &nbsp; 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
