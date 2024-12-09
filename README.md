@@ -49,10 +49,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
 &nbsp; &nbsp; 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<div style="display: inline-block; width: 40px; height: 40px; background: #000; color: #fff; text-align: center; line-height: 40px; font-family: Arial, sans-serif; border-radius: 5px;">
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <div style="display: inline-block; width: 40px; height: 40px; background: #000; color: #fff; text-align: center; line-height: 40px; font-family: Arial, sans-serif; border-radius: 5px;">
     EX
-</div>
+</div> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+
 
 
 &nbsp; &nbsp; 
